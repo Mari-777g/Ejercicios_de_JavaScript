@@ -1,0 +1,38 @@
+header{
+    background-color: rgba(237, 9, 253, 0.959);
+    text-align: center;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+}
+
+nav{
+    background-color: rgb(156, 233, 75);
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a{
+    background-color: rgb(28, 19, 94);
+    border-radius: 5px;
+    padding: 10px;
+    color: black;
+}
+
+main{
+    background-color: rgb(174, 52, 52);
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+}
+
+h2{
+    background-color: rgb(108, 26, 133);
+    margin: 5px;
+    border-radius: 5px;
+    padding: 3px;
+    text-align: center;
+}
