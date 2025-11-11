@@ -1,0 +1,45 @@
+header{
+    background-color: rgb(200, 143, 253);
+    text-align: center;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+}
+
+nav{
+    background-color: rgb(135, 233, 135);
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a{
+    background-color: rgb(74, 255, 255);
+    border-radius: 5px;
+    padding: 10px;
+    color: black;
+}
+
+section{
+    background-color: rgb(255, 242, 166);
+    border-radius: 5px;
+    margin: 10px;
+    text-align: center;
+    padding: 5px;
+}
+
+h2{
+    background-color: rgb(255, 147, 147);
+    margin: 5px;
+    border-radius: 5px;
+    padding: 3px;
+
+}
+
+p{
+    background-color: white;
+    border-radius: 5px;
+    padding: 5px;
+}

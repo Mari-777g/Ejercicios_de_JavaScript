@@ -1,0 +1,50 @@
+header{
+    background-color: rgba(250, 254, 139, 0.959);
+    text-align: center;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+}
+
+nav{
+    background-color: rgb(122, 154, 213);
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a{
+    background-color: rgb(255, 136, 148);
+    border-radius: 5px;
+    padding: 10px;
+    color: black;
+}
+
+main{
+    background-color: rgb(163, 255, 157);
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+}
+
+h2{
+    background-color: rgb(142, 134, 255);
+    margin: 5px;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+article{
+    background-color: rgb(223, 159, 249);
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+}
+
+h3{
+   background-color: rgb(171, 89, 136);
+    border-radius: 5px;
+    padding: 10px;  
+}

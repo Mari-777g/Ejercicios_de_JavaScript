@@ -1,0 +1,47 @@
+header{
+    background-color: rgb(60, 180, 239);
+    text-align: center;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+}
+
+nav{
+    background-color: rgb(209, 164, 241);
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a{
+    background-color: rgb(129, 35, 245);
+    border-radius: 5px;
+    padding: 10px;
+    color: black;
+    
+}
+
+section{
+    background-color: rgb(196, 40, 210);
+    border-radius: 5px;
+    margin: 10px;
+    text-align: center;
+    padding: 5px;
+}
+
+h2{
+    background-color: rgb(135, 152, 240);
+    margin: 5px;
+    border-radius: 5px;
+    padding: 3px;
+    text-align: center;
+
+}
+
+p{
+    background-color: rgb(242, 154, 232);
+    border-radius: 5px;
+    padding: 5px;
+}

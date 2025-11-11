@@ -1,0 +1,6 @@
+document.getElementById("one").innerHTML = "Rapunzel"
+document.getElementById("two").innerHTML = "Dulce venganza 1, 2, 3"
+document.getElementById("three").innerHTML = "El gato con botas"
+document.getElementById("four").innerHTML = "3 metros sobre el cielo"
+document.getElementById("five").innerHTML = "Malefica"
+document.getElementById("six").innerHTML = "La hermanastra fea"

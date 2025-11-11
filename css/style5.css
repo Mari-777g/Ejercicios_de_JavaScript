@@ -1,0 +1,44 @@
+header{
+    background-color: rgba(184, 14, 14, 0.959);
+    text-align: center;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+}
+
+nav{
+    background-color: rgb(84, 129, 241);
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a{
+    background-color: rgb(246, 135, 205);
+    border-radius: 5px;
+    padding: 10px;
+    color: black;
+}
+
+main{
+    background-color: rgb(253, 205, 146);
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+}
+
+h2{
+    background-color: rgb(87, 227, 196);
+    margin: 5px;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+article{
+    background-color: rgb(208, 239, 108);
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+}

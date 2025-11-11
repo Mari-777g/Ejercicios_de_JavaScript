@@ -1,0 +1,6 @@
+document.getElementById("one").innerHTML = "Welcome to the jungle-Guns and roses"
+document.getElementById("two").innerHTML = "Dont' cry-Guns and roses"
+document.getElementById("three").innerHTML = "Bad-Michael Jackson"
+document.getElementById("four").innerHTML = "Still loving you-Scorpions"
+document.getElementById("five").innerHTML = "Grupo niche (la mayoria)"
+document.getElementById("six").innerHTML = "La ley del monte-Vicente Fernandez"
